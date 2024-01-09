@@ -1,6 +1,6 @@
 TR
 
-Bu projemde sim800l modülü ile firebase'in sunmuş olduğu FİREBASE REALTİME veritabanına HTTP protokolünü kullanarak verilerimizi gerçek zamanlı veri akışı sağladım.
+Bu projemde sim800l modülü ile firebase'in sunmuş olduğu FİREBASE REALTİME veritabanına HTTP protokolünü kullanarak gerçek zamanlı veri akışı sağladım.
 STM32 de yapmak istemiştim ancak sim800 için sağlanmış kütüphaneler Arduino için çalışmakta STM32 yi desteklememektedir.
 
 
